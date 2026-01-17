@@ -1,2 +1,2 @@
-# ZT100631_ABAP_4_HANA_BLOQUE_V
-ZT100631_BLOQUE_V
+# Bloque V - HANA Base de datos Secundaria y Primaria
+Bloque V - HANA Base de datos Secundaria y Primaria
